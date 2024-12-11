@@ -1,0 +1,34 @@
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\bin\Debug\FinalProjectC#.exe.config
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\bin\Debug\FinalProjectC#.exe
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\bin\Debug\FinalProjectC#.pdb
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC#.csproj.AssemblyReference.cache
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.FormLoadingScreen.resources
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.Properties.Resources.resources
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC#.csproj.GenerateResource.cache
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC#.csproj.CoreCompileInputs.cache
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC#.exe
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC#.pdb
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.FormLoginScreen.resources
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.FormMain.resources
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.formPersonnelManagement.resources
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC#.csproj.ResolveComReference.cache
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.Fault.resources
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.FormStudent.resources
+C:\Users\Ron\source\repos\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.FormAnalytics.resources
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\bin\Debug\FinalProjectC#.exe.config
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\bin\Debug\FinalProjectC#.exe
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\bin\Debug\FinalProjectC#.pdb
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC#.csproj.AssemblyReference.cache
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC#.csproj.ResolveComReference.cache
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.Fault.resources
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.FormAnalytics.resources
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.FormStudent.resources
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.formPersonnelManagement.resources
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.FormLoadingScreen.resources
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.FormLoginScreen.resources
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.FormMain.resources
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC_.Properties.Resources.resources
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC#.csproj.GenerateResource.cache
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC#.csproj.CoreCompileInputs.cache
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC#.exe
+C:\Users\Ron\Documents\מכללה\שנה א\תכנות מונחה עצמים\פרויקט C#\FinalProjectC#\FinalProjectC#\obj\Debug\FinalProjectC#.pdb
